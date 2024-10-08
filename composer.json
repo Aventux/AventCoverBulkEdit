@@ -17,8 +17,8 @@
     "shopware-plugin-class": "Avent\\CoverBulkEdit\\AventCoverBulkEdit",
     "copyright": "(c) by Aventux",
     "label": {
-      "de-DE": "AventCoverBulkEdit: Massenbearbeitung von Coverbildern",
-      "en-GB": "AventCoverBulkEdit: Bulk Editing of Cover Images"
+      "de-DE": "Massenbearbeitung von Coverbildern",
+      "en-GB": "Bulk Editing of Cover Images"
     },
     "description": {
       "de-DE": "AventCoverBulkEdit fügt Shopware 6 die Möglichkeit hinzu, Coverbilder von Produkten in großen Mengen festzulegen. Ideal für schnelle und effiziente Anpassungen der Hauptbilder in umfangreichen Produktkatalogen.",
