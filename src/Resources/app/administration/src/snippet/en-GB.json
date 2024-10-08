@@ -1,0 +1,7 @@
+{
+    "avent-bulk-edit-cover": {
+        "startBulkEdit": "Set cover",
+        "success": "Cover-Update zur Verarbeitung in die Warteschlange gesendet",
+        "error": "Das Cover-Update konnte nicht zur Verarbeitung an die Warteschlange gesendet werden."
+    }
+}

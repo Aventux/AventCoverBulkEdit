@@ -1,0 +1,7 @@
+{
+  "avent-bulk-edit-cover": {
+    "startBulkEdit": "Abdeckung einstellen",
+    "success": "Sent cover update to queue for processing",
+    "error": "Failed to send cover update to queue for processing"
+  }
+}
